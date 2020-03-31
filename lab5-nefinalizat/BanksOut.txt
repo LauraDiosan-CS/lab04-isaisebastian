@@ -1,0 +1,12 @@
+19 500 in pizzahut
+
+20 100 in kfc
+
+21 200 in mcdonalds
+
+30 400 in shopping
+
+19 200 out pizza
+
+19 30 out haine
+
