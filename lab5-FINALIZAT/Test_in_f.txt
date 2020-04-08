@@ -1,0 +1,4 @@
+1 200 in pizza
+2 300 in tranzactie
+3 400 out tranzactie
+4 500 out kfc

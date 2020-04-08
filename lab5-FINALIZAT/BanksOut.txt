@@ -1,0 +1,4 @@
+26 500 in descsriere1
+
+7 800 out desc
+
